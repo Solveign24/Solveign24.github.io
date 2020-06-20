@@ -7,3 +7,5 @@ Dies ist eine Beschreibung von Garfield der als Katze gerne Lasagne isst. Dies i
 * laughs about the family dog
 * hates Mondays
 * is very lazy
+
+> I hate Mondays
